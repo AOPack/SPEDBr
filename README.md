@@ -1,5 +1,7 @@
 # SPEDBr
 
+### Biblioteca descontinuada, para acessar a nova versão, [clique aqui](https://github.com/osamueloliveira/FiscalBr.NET).
+
 ###### SITE OFICIAL DO SPED: http://sped.rfb.gov.br/
 Biblioteca gratuita  - desenvolvida com Visual Studio Community 2017 - para geração dos arquivos SPED e demais declarações necessárias no cenário contábil/fiscal brasileiro.
 
